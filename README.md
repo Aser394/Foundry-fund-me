@@ -1,3 +1,4 @@
+#Fund ME Project
 1. proper README
 2. Integration tests
 3. programatic verification
